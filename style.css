@@ -110,7 +110,11 @@
   
   /* Seção Hero */
   .hero {
-    background: url("img/hero-bg.jpg") no-repeat center center/cover;
+    background: url("https://github.com/alexritzmann/alexritzmann.github.io/blob/main/teste.jpg") no-repeat center center/cover;
+    /* Adicione estas propriedades para melhor controle */
+    background-attachment: fixed; /* Opcional: efeito parallax */
+    background-size: cover;
+    /*background: url("img/hero-bg.jpg") no-repeat center center/cover;*/
     height: 70vh;
     display: flex;
     align-items: center;
