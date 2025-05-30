@@ -110,7 +110,7 @@
   
   /* Seção Hero */
   .hero {
-    background: url("teste.jpg") no-repeat center center/cover;
+    background: url("https://github.com/alexritzmann/alexritzmann.github.io/blob/main/img/teste.jpg") no-repeat center center/cover;
     /* Adicione estas propriedades para melhor controle */
     background-attachment: fixed; /* Opcional: efeito parallax */
     background-size: cover;
